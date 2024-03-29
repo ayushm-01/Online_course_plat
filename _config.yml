@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Application Development
+course_description: "The Application Development course provides students with a comprehensive understanding of modern software development practices and methodologies. The course covers a wide range of topics related to application development, including programming languages, frameworks, tools, and best practices."
+course_semester: "6th Semester"
 
 baseurl: "/Online_course_plat" # the subpath of your site, e.g. /blog/
 url: "http://ayushm-01.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
+schoolname: "SRM University"
+schoolurl: "https://www.srmist.edu.in/"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    SRM University Kattankaluthar
+    Potheri
+    Chennai
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
